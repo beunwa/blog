@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://beunwa.github.com/blog/sitemap.xml 
