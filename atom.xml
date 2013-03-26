@@ -4,7 +4,7 @@
   <title><![CDATA[Beunwa's Technolab]]></title>
   <link href="http://beunwa.github.com/blog/atom.xml" rel="self"/>
   <link href="http://beunwa.github.com/blog/"/>
-  <updated>2013-03-26T13:54:32+01:00</updated>
+  <updated>2013-03-26T13:56:52+01:00</updated>
   <id>http://beunwa.github.com/blog/</id>
   <author>
     <name><![CDATA[Benoit Chevillot]]></name>
@@ -18,7 +18,7 @@
     <link href="http://beunwa.github.com/blog/blog/2013/03/26/blogger-depuis-la-ligne-de-commande/"/>
     <updated>2013-03-26T13:41:00+01:00</updated>
     <id>http://beunwa.github.com/blog/blog/2013/03/26/blogger-depuis-la-ligne-de-commande</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>Hello</p>
 ]]></content>
   </entry>
   
