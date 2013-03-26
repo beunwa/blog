@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Web Governance Techlab]]></title>
+  <title><![CDATA[SeoTechlab]]></title>
   <link href="http://beunwa.github.com/blog/atom.xml" rel="self"/>
   <link href="http://beunwa.github.com/blog/"/>
-  <updated>2013-03-26T14:07:10+01:00</updated>
+  <updated>2013-03-26T14:12:33+01:00</updated>
   <id>http://beunwa.github.com/blog/</id>
   <author>
     <name><![CDATA[Benoit Chevillot]]></name>
